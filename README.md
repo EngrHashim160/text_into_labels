@@ -1,1 +1,1 @@
-# text_into_labels
+# Classification of text into labels
